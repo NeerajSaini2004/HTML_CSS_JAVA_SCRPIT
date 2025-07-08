@@ -1,0 +1,31 @@
+/* h1{
+    width: 200px;
+    height: 100px;
+    background-color: brown;
+    /* border-width:  5px; 
+    border-style:dashed;
+    border-color: aqua; */
+    /* border: 2px solid gray;
+    text-align: center;
+}
+div{
+    background-color: rgb(26, 132, 224);
+    width: 100px;
+    height: 50px;
+    border: 2px solid rgb(235, 4, 4);
+    /* text-align: center; */
+   /* border-radius: 10%; */
+    /* border-radius: 10px; */
+    /* padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px; */
+   
+
+div{
+    background-color: rgb(255, 0, 0, 0.5);
+    /* display: inline; */
+}
+button{
+    display: inline-block;
+}

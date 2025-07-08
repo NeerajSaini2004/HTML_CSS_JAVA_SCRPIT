@@ -1,0 +1,41 @@
+h1 {
+    color: red;
+}
+P{
+    color: brown;
+}
+
+body {
+    background-color: lightblue;
+}
+button {
+    background-color: orange;
+    color: white;
+}
+/* p{
+    text-align: right;
+} */
+h1{
+    text-align: center;
+    text-decoration:  blue underline;
+}
+h2{
+    text-decoration:  underline;
+    font-weight: 100;
+}
+h3{
+    text-decoration:wavy underline;
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+}
+#one{
+    font-size: 30px;
+}
+#tow{
+    font-size: 20px;
+}
+#three{
+    font-size: 15px;
+    line-height: 25px;
+    text-transform: capitalize;
+}

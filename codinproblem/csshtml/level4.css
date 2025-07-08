@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 150px;
+    display: inline-block;
+    border: 2px solid black;
+}
+#container{
+    height: 600px;
+    width: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap:wrap-reverse;
+    align-items: center;
+    align-content: center;
+}
+#box1{
+    background-color: red;
+}
+
+#box2{
+    background-color: blue;
+    height: 200px;
+}
+
+#box3{
+    background-color: green;
+    height: 75px;
+}
+
+#box4{
+    background-color: yellow;
+}
+
+#box5{
+    background-color: purple;
+}

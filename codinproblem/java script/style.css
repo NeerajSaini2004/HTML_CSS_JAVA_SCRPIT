@@ -1,0 +1,52 @@
+/* .heading{
+    color: #333;
+    font-size: 2em;
+    text-align: center;
+    color: blue;
+    background-color: coral;
+}
+body{
+    background-color: #e7dddd;
+    
+}
+.box{
+    width: 150px;
+    height: 300px;
+    background-color: #11557c;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    border: 1px solid #000;
+}
+.para{
+   
+    color: blue;
+    
+}
+
+.newpara{
+   
+    background-color: coral;
+} */
+ /* event */
+ /* div{
+    width: 200px;
+    height: 200px;
+    background-color: #11557c;
+    margin: 20px;
+color: white;
+    text-align: center;
+    border: 1px solid #000;
+}
+div:hover{
+    background-color: #e7dddd;
+    color: black;
+} */
+ .dark{
+    background-color: black;
+    color: white;
+ }
+    .light{
+        background-color: white;
+        color: black;
+    }

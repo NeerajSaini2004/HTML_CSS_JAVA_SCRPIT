@@ -1,0 +1,39 @@
+/* #box1{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    font-size: 10px;
+}
+#box2{
+    width: 33%;
+    height: 50px;
+    background-color: green;
+    font-size: 2em;
+    width: 5em;
+} */
+ div{
+    height:100px;
+    width: 100px;
+    background-color: aqua;
+    display:inline-block;
+    border: 2px solid black;
+ }
+ #box4{
+    background-image: url("eagle.jpg");
+    background-size: cover; 
+ }
+ /* #box1{
+position: static;
+ }
+ #box2{
+    position: relative;
+    top: 10px;
+ }
+ #box3{
+    position: absolute;
+    top: 10px;
+ }
+ #box4{
+    position: fixed;
+right: 10px;
+ } */
