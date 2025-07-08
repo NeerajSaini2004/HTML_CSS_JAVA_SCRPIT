@@ -213,7 +213,7 @@
    // }
    
    //for-of-loop
-//    let str="prachisainiiloveyou";
+//    let str="......sainiiloveyou";
 //   let size =0;  // this use to find the size of string 
 //    for(let val of str){
 //        console.log("val=",val);
@@ -254,7 +254,7 @@
 //strings
 // let str="neerajsaini";
 // let str1=" i love you ";
-// let str2='prachisaini';
+// let str2='......saini';
 // console.log(str[3]);
 
 //length of string
@@ -281,7 +281,7 @@
 // console.log(newstr);
 
 // let str="neerajloves";
-// let str2="prachi";
+// let str2="........";
 // let str3="  i love you universe";
 // console.log(str.slice(1,3)); //retunr part of string
 // let res=str.concat(str2); // let res=str + str2;
@@ -302,7 +302,7 @@
 // console.log(mark);
 // console.log(mark.length);
 
-// let heroes= ["neeraj","saini","prachi","saini","i love you "];
+// let heroes= ["neeraj","saini",".......","saini","i love you "];
 
 // console.log(heroes);
 // //using loop accessing
@@ -386,7 +386,7 @@
 
 //funtions start 
 // function company(){
-//    console.log("company name neeraj ke parachu");
+//    console.log("company name neeraj ke ........");
 // }
 // company();
 // function myFuntions(msg) {//parameter ->input
@@ -456,7 +456,7 @@
 // };
 
 // let arr=[1,2,3,4,5,6,7,8,9,10];
-//  let arr=["neeraj","saini","prachisaini","i love you"];
+//  let arr=["neeraj","saini",".......saini","i love you"];
 // // arr.forEach((val)=> {
 //    arr.forEach((val, idx,  arr)=> {
 // // console.log(val);
